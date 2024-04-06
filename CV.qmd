@@ -1,0 +1,28 @@
+---
+title: "CV"
+---
+
+## CV
+
+### Education
+
+-   PhD in Biology of Aging, University of Southern California, CA (in progress)
+
+-   Master's Degree in Pharmaceutical Biotechnology, University of Bologna, Italy
+
+-   Bachelor Degree in Biotechnology, University of Bologna, Italy
+
+### Experience
+
+-   PhD work
+
+-   Master's Internship
+
+-   Bachelor Internship
+
+### Publication
+
+```{r}
+
+
+```

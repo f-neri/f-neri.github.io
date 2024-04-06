@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "f-neri.github.io",
+    "title": "Hi, I’m Francesco",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a Biology of Aging PhD Student in the Campisi Lab at the Buck Institute for Research on Aging.\nDuring my PhD, I’ve been using high-content imaging and a bit of R to study cellular senescence, an established hallmark of aging. I developed a high-throughput workflow to measure senescence burden, and identified sub-populations of senescent cells with different sensitivity to senolytics (unpublished).\nBefore moving to the US, I got my Bachelor’s degree in Biotechnology and then my Master’s degree in Pharmaceutical Biotechnology at the University of Bologna in Italy - my home country. I also lived in Ireland for a year during high school - which is where I learned English - and spent a summer waiting tables in London.\nI’m deeply interested in aging/longevity biotech. Developing therapeutics that can extend everyone’s healthy years of life is possibly one the most important and hard problems to tackle."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n2 + 2\n\n[1] 4"
+    "text": "PhD in Biology of Aging, University of Southern California, CA (in progress)\nMaster’s Degree in Pharmaceutical Biotechnology, University of Bologna, Italy\nBachelor Degree in Biotechnology, University of Bologna, Italy\n\n\n\n\n\nPhD work\nMaster’s Internship\nBachelor Internship"
+  },
+  {
+    "objectID": "CV.html#cv",
+    "href": "CV.html#cv",
+    "title": "CV",
+    "section": "",
+    "text": "PhD in Biology of Aging, University of Southern California, CA (in progress)\nMaster’s Degree in Pharmaceutical Biotechnology, University of Bologna, Italy\nBachelor Degree in Biotechnology, University of Bologna, Italy\n\n\n\n\n\nPhD work\nMaster’s Internship\nBachelor Internship"
   }
 ]
