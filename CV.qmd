@@ -3,17 +3,16 @@ title: "CV"
 
 format:
   html: default
-
-# listing:
-#   id: my_pubs
-#   template: custom.ejs
-#   contents: my_publications
-#   sort: "date desc"
+  pdf: default
 ---
 
 ------------------------------------------------------------------------
 
-# Experience
+# Francesco Neri
+
+<i class="bi bi-geo-alt-fill"></i> San Francisco Bay Area \| <i class="bi bi-envelope-fill"></i> fneri\@usc.edu
+
+## Experience
 
 **2021 - Present**
 
@@ -44,9 +43,7 @@ format:
 
 -   Established MYCN potential role in the upregulation of plasma membrane transporters SLC7A1 and SLC7A2 as measured by a luciferase assay in a MYCN-inducible neuroblastoma cell line. This involved the cloning of SLC7A1 and SLC7A2 promoter regions into a luciferase reporter plasmid, their transfection into the neuroblastoma cell line, and carrying out luciferase assays.
 
-------------------------------------------------------------------------
-
-# Publications
+## Publications
 
 <!-- ::: {#my_pubs} -->
 
@@ -82,9 +79,7 @@ format:
 
     [Current Protocols, 2021](http://dx.doi.org/10.1002/cpz1.32)
 
-------------------------------------------------------------------------
-
-# Education
+## Education
 
 August 2024 (ongoing)
 

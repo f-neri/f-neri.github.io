@@ -3,18 +3,27 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent:
+    type: implied
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-Y23TGWHRGM"
+    anonymize-ip: true
   title: "Francesco Neri"
   navbar:
     left:
       - href: index.qmd
         text: About Me
-      - CV.qmd
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: lightly
     css: styles.css
     toc: true
 
 editor: visual
-
