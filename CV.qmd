@@ -1,28 +1,105 @@
 ---
 title: "CV"
+
+format:
+  html: default
+
+# listing:
+#   id: my_pubs
+#   template: custom.ejs
+#   contents: my_publications
+#   sort: "date desc"
 ---
 
-## CV
+------------------------------------------------------------------------
 
-### Education
+# Experience
 
--   PhD in Biology of Aging, University of Southern California, CA (in progress)
+**2021 - Present**
 
--   Master's Degree in Pharmaceutical Biotechnology, University of Bologna, Italy
+##### **Biology of Aging PhD Student \| Buck Institute/University of Southern California \| Novato, CA**
 
--   Bachelor Degree in Biotechnology, University of Bologna, Italy
+-   Led multiple collaborative projects with other Buck and external research groups that resulted in 2 first-author publications. These projects entailed the development of a high-throughput method to measure senescence burden and the identification of sub-populations of senescent cells with different sensitivity to senolytic treatment.
+-   Contributed as a volunteer to the organization and coordination of multiple international conferences at Buck. Specifically, I managed all the Buck volunteer operations related to the Seno-Therapeutic Summit 2023 by the Phaedon Institute, and I helped with several tasks related to the Longevity Summit 2022 and 2023 by Longevity Global.
 
-### Experience
+**2019 – 2021**
 
--   PhD work
+##### **Research Associate \| Buck Institute \| Novato, CA**
 
--   Master's Internship
+-   Wrote a step-by-step workflow for the generation and analysis of senescent-associated secretory phenotype (SASP) samples from *in vitro* senescence models, which resulted in a first-author publication in a peer-reviewed journal. This involved collecting several protocols developed by colleagues and carefully distilling them into a generalized and clear workflow usable by any expert in the field.
 
--   Bachelor Internship
+-   Contributed to multiple projects led by other lab members, which resulted in 2 publications in peer-reviewed journals. My role involved preparing senescent samples using primary human cell strains.
 
-### Publication
+-   Contributed to lab managing duties. This involved general maintenance of lab equipment, purchasing of new instruments, and setting up centralized laboratory resources to catalog and readily share tested protocols and reagents with colleagues and new hires.
 
-```{r}
+**March 2019 – September 2019**
 
+##### **Master’s Degree Intern \| Buck Institute \| Novato, CA**
 
-```
+-   Contributed to a project that characterized the heterogeneity of the senescent-associated secretory phenotype (SASP) from *in vitro* senescence models, which resulted in a published manuscript in a peer-reviewed journal. Specifically, I helped with the preparation of SASP samples, which involved culturing primary human cell strains, inducing cellular senescence in such *in vitro* models, and validating senescence induction via multiple molecular biology assays (e.g. immunocytochemistry, RT-qPCR, western blotting).
+
+**February 2017 – April 2017**
+
+##### **Bachelor’s Degree Intern \| University of Bologna \| Bologna, Italy**
+
+-   Established MYCN potential role in the upregulation of plasma membrane transporters SLC7A1 and SLC7A2 as measured by a luciferase assay in a MYCN-inducible neuroblastoma cell line. This involved the cloning of SLC7A1 and SLC7A2 promoter regions into a luciferase reporter plasmid, their transfection into the neuroblastoma cell line, and carrying out luciferase assays.
+
+------------------------------------------------------------------------
+
+# Publications
+
+<!-- ::: {#my_pubs} -->
+
+<!-- ::: -->
+
+-   **A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers**
+
+    [Francesco Neri]{.underline}, Selma N. Takajjart, Chad A. Lerner, Pierre-Yves Desprez, Birgit Schilling, Judith Campisi, Akos A. Gerencser
+
+    [bioRxiv, 2023](http://dx.doi.org/10.1101/2023.12.22.573123)
+
+-   **Role of the Senescence-Associated Factor Dipeptidyl Peptidase 4 in the Pathogenesis of SARS-CoV-2 Infection**
+
+    Stefanie Deinhardt-Emmer , Sharvari Deshpande, Koji Kitazawa, Allison B. Herman, Joanna Bons, Jacob P. Rose, Prasanna Ashok Kumar, Carlos Anerillas, [Francesco Neri]{.underline}, Serban Ciotlos, Kevin Perez, Nilay Köse-Vogel, Antje Häder, Kotb Abdelmohsen, Bettina Löffler, Myriam Gorospe, Pierre-Yves Desprez, Simon Melov, David Furman, Birgit Schilling, Judith Campisi
+
+    [Aging And Disease, 2023](http://dx.doi.org/10.14336/ad.2023.0812)
+
+-   **Oxylipin biosynthesis reinforces cellular senescence and allows detection of senolysis**
+
+    Christopher D. Wiley, Rishi Sharma, Sonnet S. Davis, Jose Alberto Lopez-Dominguez, Kylie P. Mitchell, Samantha Wiley, Fatouma Alimirah, Dong Eun Kim, Therese Payne, Andrew Rosko, Eliezer Aimontche, Sharvari M. Deshpande, [Francesco Neri]{.underline}, Chisaka Kuehnemann, Marco Demaria, Arvind Ramanathan, Judith Campisi
+
+    [Cell Metabolism, 2021](http://dx.doi.org/10.1016/j.cmet.2021.03.008)
+
+-   **Comprehensive Profiling of Plasma Exosomes Using Data-Independent Acquisitions – New Tools for Aging Cohort Studies**
+
+    Sandip K. Patel, Roland Bruderer, Nathan Basisty, Joanna Bons, Pierre-Yves Desprez, [Francesco Neri]{.underline}, Lukas Reiter, Judith Campisi, Birgit Schilling
+
+    [bioRxiv, 2021](http://dx.doi.org/10.1101/2021.02.27.433188)
+
+-   **Quantitative Proteomic Analysis of the Senescence‐Associated Secretory Phenotype by Data‐Independent Acquisition**
+
+    [Francesco Neri]{.underline}, Nathan Basisty, Pierre‐Yves Desprez, Judith Campisi, Birgit Schilling
+
+    [Current Protocols, 2021](http://dx.doi.org/10.1002/cpz1.32)
+
+------------------------------------------------------------------------
+
+# Education
+
+August 2024 (ongoing)
+
+##### **PhD in Biology of Aging \| Buck Institute/University of Southern California \| Novato, CA**
+
+-   GPA 4.0
+
+October 2019
+
+##### **Master's degree in Pharmaceutical Biotechnology \| University of Bologna \| Bologna, Italy**
+
+-   Final mark: 110/110 *cum laude*
+
+July 2017
+
+##### **Bachelor's degree in Biotechnology \| University of Bologna \| Bologna, Italy**
+
+-   Final mark: 110/110 *cum laude*

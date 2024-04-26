@@ -1,0 +1,15 @@
+
+```{=html}
+<ul>
+<% for (const item of items) { %>
+  <li>
+    <a href="<%= item.url %>"><%= item.title %></a> <!-- Title as a clickable link -->
+    <br>
+    <span>Date: <%= item.date %></span> <!-- Displaying the date -->
+    <br>
+    <span>Authors: <%= item.author.join(', ') %></span> <!-- Displaying the authors list -->
+  </li>
+<% } %>
+</ul>
+
+```
