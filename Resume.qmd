@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Resume"
 
 format:
   html: default
@@ -10,7 +10,9 @@ format:
 
 # Francesco Neri
 
-<i class="bi bi-geo-alt-fill"></i> San Francisco Bay Area \| <i class="bi bi-envelope-fill"></i> fneri\@usc.edu
+<i class="bi bi-geo-alt-fill"></i> San Francisco Bay Area \| <i class="bi bi-envelope-fill"></i> fneri\@buckinstitute.org
+
+Molecular and cellular biologist working on cellular senescence and aging to develop interventions for age-related diseases
 
 ## Experience
 
@@ -44,10 +46,6 @@ format:
 -   Established MYCN potential role in the upregulation of plasma membrane transporters SLC7A1 and SLC7A2 as measured by a luciferase assay in a MYCN-inducible neuroblastoma cell line. This involved the cloning of SLC7A1 and SLC7A2 promoter regions into a luciferase reporter plasmid, their transfection into the neuroblastoma cell line, and carrying out luciferase assays.
 
 ## Publications
-
-<!-- ::: {#my_pubs} -->
-
-<!-- ::: -->
 
 -   **A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers**
 
