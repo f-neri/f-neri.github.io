@@ -1,6 +1,0 @@
----
-title: "Quantitative Proteomic Analysis of the Senescence-Associated Secretory Phenotype by Data-Independent Acquisition"
-date: 2021-02
----
-
-This is some text
