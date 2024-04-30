@@ -47,6 +47,44 @@ Molecular and cellular biologist working on cellular senescence and aging to dev
 
 ## Publications
 
+```{r publication_details, echo=FALSE, eval=FALSE}
+
+library(tidyverse)
+library(rcrossref)
+
+dois <- c("10.14336/ad.2023.0812",
+          "10.1101/2023.12.22.573123",
+          "10.1016/j.cmet.2021.03.008",
+          "10.1002/cpz1.32",
+          "10.1101/2021.02.27.433188")
+
+publication_details <- rcrossref::cr_works(dois = dois) %>%
+  .$data %>% # .$author
+  mutate(
+    author = map_chr(author,
+                 # handle NULL values
+                 ~ if(is.null(.x))
+                   NA
+                 else {
+                   # obtain string with all author names
+                   .x %>%
+                     mutate(
+                       full_name = str_c(given, family, sep = " ")
+                     ) %>%
+                     pull(full_name) %>%
+                     str_c(., collapse = ", ")
+                }),
+    date = created,
+    journal = container.title %>% str_to_title() %>%
+      if_else(is.na(.), "bioRxiv", .)
+  ) %>%
+  select(date, journal, title, author, doi, everything()) %>%
+  arrange(desc(date))
+
+publication_details
+
+```
+
 -   **A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers**
 
     [Francesco Neri]{.underline}, Selma N. Takajjart, Chad A. Lerner, Pierre-Yves Desprez, Birgit Schilling, Judith Campisi, Akos A. Gerencser
