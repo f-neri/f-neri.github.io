@@ -22,7 +22,7 @@ format:
   html:
     theme:
       dark: darkly
-      light: sandstone
+      light: flatly
     css: styles.css
     toc: true
 
