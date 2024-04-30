@@ -25,7 +25,7 @@ about:
 ::: {.panel style="text-align: justify;"}
 I'm a Biology of Aging PhD Candidate in the [Campisi Lab](https://www.buckinstitute.org/lab/campisi-lab/) at the Buck Institute for Research on Aging.
 
-During my PhD, I've worked on cellular senescence, an established hallmark of aging. I developed a [high-throughput method to measure senescence burden](https://pubmed.ncbi.nlm.nih.gov/38187756/), and identified sub-populations of senescent cells with different sensitivity to senolytic treatment (to be published soon!).
+During my PhD, I worked on cellular senescence, an established hallmark of aging. I developed a [high-throughput method to measure senescence burden](https://pubmed.ncbi.nlm.nih.gov/38187756/), and identified sub-populations of senescent cells with different sensitivity to senolytic treatment (to be published soon!).
 
 I’m deeply interested in aging/longevity biotech. My goal within the next 10 years is to directly contribute to the R&D and operations that will add healthy years to everyone's life by bringing a longevity drug to the market.
 :::
