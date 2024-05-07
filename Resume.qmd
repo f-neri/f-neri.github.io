@@ -12,7 +12,9 @@ format:
 
 <i class="bi bi-geo-alt-fill"></i> San Francisco Bay Area \| <i class="bi bi-envelope-fill"></i> fneri\@buckinstitute.org
 
-Molecular and cellular biologist working on cellular senescence and aging to develop interventions for age-related diseases
+Molecular and cellular biologist working on aging to develop interventions for age-related diseases.
+
+**Skills**: Primary Human Cell culture ● Molecular & Cellular Biology ● Assay Development ● R programming ● Immunocytochemistry ● Fluorescence ● Imaging ● ELISA ● RT-qPCR ● Western Blot ● Cloning ● Lab Managing ● Data Visualization & Communication
 
 ## Experience
 
@@ -21,23 +23,23 @@ Molecular and cellular biologist working on cellular senescence and aging to dev
 ##### **Biology of Aging PhD Student \| Buck Institute/University of Southern California \| Novato, CA**
 
 -   Led multiple collaborative projects with other Buck and external research groups that resulted in 2 first-author publications. These projects entailed the development of a high-throughput method to measure senescence burden and the identification of sub-populations of senescent cells with different sensitivity to senolytic treatment.
--   Contributed as a volunteer to the organization and coordination of multiple international conferences at Buck. Specifically, I managed all the Buck volunteer operations related to the Seno-Therapeutic Summit 2023 by the Phaedon Institute, and I helped with several tasks related to the Longevity Summit 2022 and 2023 by Longevity Global.
+-   Volunteered for the organization and coordination of multiple international conferences at Buck. Specifically, I managed all the Buck volunteer operations related to the Seno-Therapeutic Summit 2023 by the Phaedon Institute, and I helped with several tasks related to the Longevity Summit 2022 and 2023 by Longevity Global.
 
 **2019 – 2021**
 
 ##### **Research Associate \| Buck Institute \| Novato, CA**
 
--   Wrote a step-by-step workflow for the generation and analysis of senescent-associated secretory phenotype (SASP) samples from *in vitro* senescence models, which resulted in a first-author publication in a peer-reviewed journal. This involved collecting several protocols developed by colleagues and carefully distilling them into a generalized and clear workflow usable by any expert in the field.
+-   Created a step-by-step workflow for the generation and analysis of senescent-associated secretory phenotype (SASP) samples from cell culture senescence models, which resulted in a first-author publication in a peer-reviewed journal. This involved collecting several protocols developed by colleagues and carefully distilling them into a generalized and clear workflow usable by any expert in the field.
 
--   Contributed to multiple projects led by other lab members, which resulted in 2 publications in peer-reviewed journals. My role involved preparing senescent samples using primary human cell strains.
+-   Aided multiple projects led by other lab members, which resulted in 2 publications in peer-reviewed journals. My role involved preparing senescent samples using primary human cell strains.
 
--   Contributed to lab managing duties. This involved general maintenance of lab equipment, purchasing of new instruments, and setting up centralized laboratory resources to catalog and readily share tested protocols and reagents with colleagues and new hires.
+-   Performed lab managing duties. This involved general maintenance of lab equipment, purchasing of new instruments, and setting up centralized laboratory resources to catalog and readily share tested protocols and reagents with colleagues and new hires.
 
 **March 2019 – September 2019**
 
 ##### **Master’s Degree Intern \| Buck Institute \| Novato, CA**
 
--   Contributed to a project that characterized the heterogeneity of the senescent-associated secretory phenotype (SASP) from *in vitro* senescence models, which resulted in a published manuscript in a peer-reviewed journal. Specifically, I helped with the preparation of SASP samples, which involved culturing primary human cell strains, inducing cellular senescence in such *in vitro* models, and validating senescence induction via multiple molecular biology assays (e.g. immunocytochemistry, RT-qPCR, western blotting).
+-   Contributed to characterizing the heterogeneity of the senescent-associated secretory phenotype (SASP) from cell culture senescence models, which resulted in a published manuscript in a peer-reviewed journal. Specifically, I prepared SASP samples, which involved culturing primary human cell strains, inducing cellular senescence in such cell culture models, and validating senescence induction via multiple molecular biology assays (e.g. immunocytochemistry, RT-qPCR, western blotting).
 
 **February 2017 – April 2017**
 
