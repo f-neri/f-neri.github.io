@@ -4,9 +4,9 @@ project:
 
 website:
   cookie-consent:
-    type: implied
-    style: headline
-    palette: dark
+    type: express
+    style: simple
+    palette: light
   google-analytics:
     tracking-id: "G-Y23TGWHRGM"
     anonymize-ip: true
@@ -21,8 +21,8 @@ website:
 format:
   html:
     theme:
-      dark: darkly
       light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
