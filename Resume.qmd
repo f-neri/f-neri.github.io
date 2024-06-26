@@ -3,7 +3,7 @@ title: "Resume"
 
 format:
   html: default
-  pdf: default
+  # pdf: default
 ---
 
 ------------------------------------------------------------------------
@@ -91,7 +91,7 @@ publication_details
 
     [Francesco Neri]{.underline}, Selma N. Takajjart, Chad A. Lerner, Pierre-Yves Desprez, Birgit Schilling, Judith Campisi, Akos A. Gerencser
 
-    [bioRxiv, 2023](http://dx.doi.org/10.1101/2023.12.22.573123)
+    [GeroScience, 2024](https://doi.org/10.1007/s11357-024-01167-3)
 
 -   **Role of the Senescence-Associated Factor Dipeptidyl Peptidase 4 in the Pathogenesis of SARS-CoV-2 Infection**
 
@@ -109,7 +109,7 @@ publication_details
 
     Sandip K. Patel, Roland Bruderer, Nathan Basisty, Joanna Bons, Pierre-Yves Desprez, [Francesco Neri]{.underline}, Lukas Reiter, Judith Campisi, Birgit Schilling
 
-    [GeroScience, 2021](https://doi.org/10.1007/s11357-024-01167-3)
+    [bioRxiv, 2021](http://dx.doi.org/10.1101/2021.02.27.433188)
 
 -   **Quantitative Proteomic Analysis of the Senescence‐Associated Secretory Phenotype by Data‐Independent Acquisition**
 
@@ -121,18 +121,18 @@ publication_details
 
 August 2024 (ongoing)
 
-##### **PhD in Biology of Aging \| Buck Institute & University of Southern California \| Novato, CA**
+**PhD in Biology of Aging** \| Buck Institute & University of Southern California \| Novato, CA
 
 -   GPA 4.0
 
 October 2019
 
-##### **Master's degree in Pharmaceutical Biotechnology \| University of Bologna \| Bologna, Italy**
+**Master's degree in Pharmaceutical Biotechnology** \| University of Bologna \| Bologna, Italy
 
 -   Final mark: 110/110 *cum laude*
 
 July 2017
 
-##### **Bachelor's degree in Biotechnology \| University of Bologna \| Bologna, Italy**
+**Bachelor's degree in Biotechnology** \| University of Bologna \| Bologna, Italy
 
 -   Final mark: 110/110 *cum laude*
