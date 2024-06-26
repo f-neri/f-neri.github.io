@@ -1,1 +1,14 @@
 /* css styles */
+.experience {
+  display: flex;
+}
+
+.left {
+  flex: 7;  /* 7/10 of the width */
+  text-align: left;
+}
+
+.right {
+  flex: 3;  /* 3/10 of the width */
+  text-align: right;
+}
