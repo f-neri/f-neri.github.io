@@ -10,15 +10,22 @@ format:
 
 # Francesco Neri
 
-<i class="bi bi-geo-alt-fill"></i> San Francisco Bay Area \| <i class="bi bi-envelope-fill"></i> fneri\@buckinstitute.org
+<i class="bi bi-geo-alt-fill"></i> San Francisco \| <i class="bi bi-envelope-fill"></i> francesco\@neuroagetx.com
 
 Molecular and cellular biologist working on aging to develop interventions for age-related diseases.
 
-**Skills**: Primary Human Cell culture 🞄 Molecular & Cellular Biology 🞄 Assay Development 🞄 R programming 🞄 Immunocytochemistry 🞄 Fluorescence 🞄 Imaging 🞄 ELISA 🞄 RT-qPCR 🞄 Western Blot 🞄 Cloning 🞄 Lab Managing 🞄 Data Visualization & Communication
+**Skills**: Primary Human Cell culture 🞄 Molecular & Cellular Biology 🞄 Assay Development 🞄 R programming 🞄 Lab Managing 🞄 Data Visualization & Communication
 
 ## Experience
 
-**2021 - Present**
+**2024 - Present**
+
+##### **Scientist** \| NeuroAge Therapeutics \| San Francisco, CA
+
+-   Shapes the strategy for pre-clinical drug development and executes it.
+-   Contributes to the day-to-day company operations.
+
+**2021 - 2024**
 
 ##### **Biology of Aging PhD Student** \| Campisi Lab \| Buck Institute & University of Southern California \| Novato, CA
 
@@ -119,7 +126,7 @@ publication_details
 
 ## Education
 
-August 2024 (ongoing)
+August 2024
 
 **PhD in Biology of Aging** \| Buck Institute & University of Southern California \| Novato, CA
 

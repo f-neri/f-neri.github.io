@@ -17,6 +17,8 @@ website:
         text: About Me
       - href: resume.qmd
         text: Resume
+      - href: projects.qmd
+        text: My Academic Projects
 
 format:
   html:

@@ -1,0 +1,38 @@
+---
+title: "My Academic Projects"
+
+format:
+  html: default
+---
+
+------------------------------------------------------------------------
+
+<br>
+
+#### "Senescent cell heterogeneity and responses to senolytic treatment are related to cell cycle status during senescence induction"
+
+::: {#senescence-heterogeneity .project layout="[4,6]"}
+[![](files/images/senescence-heterogeneity.svg "link to paper")](https://doi.org/10.1101/2024.06.22.600200)
+
+Using high-content imaging, we identified subpopulations of senescent cells that secrete different levels of pro-inflammatory cytokines and have different reponses to senolytic treatment.
+:::
+
+<br>
+
+#### "A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers"
+
+::: {#FAST .project layout="[4,6]"}
+[![](files/images/FAST.png "link to paper")](https://doi.org/10.1007/s11357-024-01167-3)
+
+We developed FAST, an image-based method for the high-throughput, single-cell assessment of senescence in cultured cells.
+:::
+
+<br>
+
+#### "Quantitative Proteomic Analysis of the Senescence-Associated Secretory Phenotype by Data-Independent Acquisition"
+
+::: {#SASP-protocol .project layout="[4,6]"}
+[![](files/images/SASP-protocol.jpg "link to paper")](https://doi.org/10.1002/cpz1.32)
+
+We describe protocols to (1) generate senescent cells using different stimuli, (2) collect conditioned medium containing proteins secreted by senescent cells (i.e., SASP), and (3) prepare the SASP for quantitative proteomic analysis
+:::
