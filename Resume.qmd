@@ -14,16 +14,16 @@ format:
 
 Molecular and cellular biologist working on aging to develop interventions for age-related diseases.
 
-**Skills**: Primary Human Cell culture 🞄 Molecular & Cellular Biology 🞄 Assay Development 🞄 R programming 🞄 Lab Managing 🞄 Data Visualization & Communication
+**Skills**: Primary Human Cell culture 🞄 Molecular & Cellular Biology 🞄 Assay Development 🞄 R programming 🞄 Lab Managing 🞄 Data Visualization & Communication 🞄 Clinical Operations
 
 ## Experience
 
 **2024 - Present**
 
-##### **Scientist** \| NeuroAge Therapeutics \| San Francisco, CA
+##### **Director of Research & Operations** \| NeuroAge Therapeutics \| San Francisco, CA
 
--   Shapes the strategy for pre-clinical drug development and executes it.
--   Contributes to the day-to-day company operations.
+-   Shapes and executes the strategy for pre-clinical drug development.
+-   Leads clinical operations for the NeuroAge Test
 
 **2021 - 2024**
 
