@@ -3,6 +3,8 @@ project:
   output-dir: docs
 
 website:
+  title: "Francesco Neri"
+  search: false
   cookie-consent:
     type: express
     style: simple
@@ -10,7 +12,6 @@ website:
   google-analytics:
     tracking-id: "G-Y23TGWHRGM"
     anonymize-ip: true
-  title: "Francesco Neri"
   navbar:
     left:
       - href: index.qmd

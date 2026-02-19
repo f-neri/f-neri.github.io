@@ -10,27 +10,32 @@ format:
 
 # Francesco Neri
 
-<i class="bi bi-geo-alt-fill"></i> San Francisco \| <i class="bi bi-envelope-fill"></i> francesco\@neuroagetx.com
+<i class="bi bi-geo-alt-fill"></i> San Francisco
 
-Molecular and cellular biologist working on aging to develop interventions for age-related diseases.
+**Summary**
 
-**Skills**: Primary Human Cell culture 🞄 Molecular & Cellular Biology 🞄 Assay Development 🞄 R programming 🞄 Lab Managing 🞄 Data Visualization & Communication 🞄 Clinical Operations
+-   Ph.D.-trained aging biologist with 6+ years of productive wet lab research experience, coupled with proficiency in R programming for data analysis and visualization.
+-   Extensive experience in high-content imaging, primary human cell culture, and assay development
+-   Strong communication skills and operational leadership in both academic and startup environments.
+
+**Skills**: Primary Human Cell Culture 🞄 Molecular & Cellular Biology 🞄 Assay Development 🞄 R programming 🞄 Data Visualization & Communication 🞄 Project Management
 
 ## Experience
 
-**2024 - Present**
+**2024 - 2026**
 
 ##### **Director of Research & Operations** \| NeuroAge Therapeutics \| San Francisco, CA
 
--   Shapes and executes the strategy for pre-clinical drug development.
--   Leads clinical operations for the NeuroAge Test
+-   First employee. Set up NeuroAge's laboratory infrastructure, including procurement of equipment, negotiating with vendors, and securing permits to ensure compliance with health and safety regulations.
+-   Led target validation efforts, generating preliminary data that supported the submission of grant applications. This included the development of plate-based assays to assess drug response using live-cell imaging.
+-   Oversaw the clinical operations of the NeuroAge Test. Responsibilities included contributing to the cloud-based analysis pipeline for transcriptome and whole-genome sequencing data, the development of a custom CRM system, and coordination with partner services (MRI centers, phlebotomy services, and sequencing companies).
 
 **2021 - 2024**
 
 ##### **Biology of Aging PhD Student** \| Campisi Lab \| Buck Institute & University of Southern California \| Novato, CA
 
--   Led multiple collaborative projects with other Buck and external research groups that resulted in 2 first-author publications. These projects entailed the development of a high-throughput method to measure senescence burden and the identification of sub-populations of senescent cells with different sensitivity to senolytic treatment.
--   Supported the organization and coordination of multiple international aging conferences, including managing all volunteer operations for the Seno-Therapeutic Summit 2023 and assisting with the Longevity Summit 2022 and 2023.
+-   Led multiple collaborative projects with other Buck and external research groups, which resulted in 2 first-author publications. These projects entailed developing a high-throughput imaging method to measure senescence burden and using high-content image analysis to identify sub-populations of senescent cells with different sensitivity to senolytic treatment.
+-   Supported the organization and coordination of multiple international aging conferences, including managing all volunteer operations for the Seno-Therapeutic Summit 2023 and assisting with the Longevity Summit 2022, 2023, and 2024.
 
 **2019 – 2021**
 
@@ -94,6 +99,12 @@ publication_details
 
 ```
 
+-   **Senescent cell heterogeneity and responses to senolytic treatment are related to cell cycle status during senescence induction**
+
+    [Francesco Neri]{.underline}*, Shuyuan Zheng, Mark A. Watson, Pierre-Yves Desprez, Akos A. Gerencser, Judith Campisi, Denis Wirtz, Pei-Hsun Wu, Birgit Schilling
+
+    [Aging, 2025](https://doi.org/10.18632/aging.206299)
+
 -   **A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers**
 
     [Francesco Neri]{.underline}, Selma N. Takajjart, Chad A. Lerner, Pierre-Yves Desprez, Birgit Schilling, Judith Campisi, Akos A. Gerencser
@@ -130,7 +141,7 @@ August 2024
 
 **PhD in Biology of Aging** \| Buck Institute & University of Southern California \| Novato, CA
 
--   GPA 4.0
+-   GPA: 4.0/4.0
 
 October 2019
 
