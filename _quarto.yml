@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Francesco Neri"
+  favicon: files/images/favicon.ico
   search: false
   cookie-consent:
     type: express
@@ -23,9 +24,10 @@ website:
 
 format:
   html:
+    pagetitle: "Francesco Neri"
     theme:
-      light: flatly
       dark: darkly
+      light: flatly
     css: styles.css
     toc: true
 
