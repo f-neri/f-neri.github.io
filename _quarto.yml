@@ -16,10 +16,10 @@ website:
     left:
       - href: index.qmd
         text: About Me
+      - href: projects.qmd
+        text: Projects
       - href: resume.qmd
         text: Resume
-      - href: projects.qmd
-        text: My Academic Projects
 
 format:
   html:

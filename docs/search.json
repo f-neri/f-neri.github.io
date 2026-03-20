@@ -33,5 +33,19 @@
     "title": "My Academic Projects",
     "section": "",
     "text": "“Senescent cell heterogeneity and responses to senolytic treatment are related to cell cycle status during senescence induction”\n\n\n\n\n\n\nUsing high-content imaging, we identified subpopulations of senescent cells that secrete different levels of pro-inflammatory cytokines and have different reponses to senolytic treatment.\n\n\n\n\n\n\n“A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers”\n\n\n\n\n\n\nWe developed FAST, an image-based method for the high-throughput, single-cell assessment of senescence in cultured cells.\n\n\n\n\n\n\n“Quantitative Proteomic Analysis of the Senescence-Associated Secretory Phenotype by Data-Independent Acquisition”\n\n\n\n\n\n\nWe describe protocols to (1) generate senescent cells using different stimuli, (2) collect conditioned medium containing proteins secreted by senescent cells (i.e., SASP), and (3) prepare the SASP for quantitative proteomic analysis"
+  },
+  {
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\n“Senescent cell heterogeneity and responses to senolytic treatment are related to cell cycle status during senescence induction”\n\n\n\n\n\n\nUsing high-content imaging, we identified subpopulations of senescent cells that secrete different levels of pro-inflammatory cytokines and have different reponses to senolytic treatment.\n\n\n\n\n\n\n“A Fully-Automated Senescence Test (FAST) for the high-throughput quantification of senescence-associated markers”\n\n\n\n\n\n\nWe developed FAST, an image-based method for the high-throughput, single-cell assessment of senescence in cultured cells.\n\n\n\n\n\n\n“Quantitative Proteomic Analysis of the Senescence-Associated Secretory Phenotype by Data-Independent Acquisition”\n\n\n\n\n\n\nWe describe protocols to (1) generate senescent cells using different stimuli, (2) collect conditioned medium containing proteins secreted by senescent cells (i.e., SASP), and (3) prepare the SASP for quantitative proteomic analysis"
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Projects",
+    "section": "Other Projects",
+    "text": "Other Projects\n\n“Longevity Biotech Insights (LBI)”\n\n\n\n\n\n\nLive Dashboard | GitHub Repository\nLongevity Biotech Insights is an interactive dashboard and data pipeline that tracks 250+ aging/longevity biotech companies worldwide using data from AgingBiotech.info. It lets users explore the ecosystem by founding year, research category, clinical stage, and geography, with click-through company-level details. The project includes an automated weekly data-refresh workflow to keep published data artifacts up to date."
   }
 ]

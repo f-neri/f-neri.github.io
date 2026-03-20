@@ -1,5 +1,5 @@
 ---
-title: "My Academic Projects"
+title: "Projects"
 
 format:
   html: default
@@ -8,6 +8,8 @@ format:
 ------------------------------------------------------------------------
 
 <br>
+
+## Academic Projects
 
 #### "Senescent cell heterogeneity and responses to senolytic treatment are related to cell cycle status during senescence induction"
 
@@ -35,4 +37,20 @@ We developed FAST, an image-based method for the high-throughput, single-cell as
 [![](files/images/SASP-protocol.jpg "link to paper")](https://doi.org/10.1002/cpz1.32)
 
 We describe protocols to (1) generate senescent cells using different stimuli, (2) collect conditioned medium containing proteins secreted by senescent cells (i.e., SASP), and (3) prepare the SASP for quantitative proteomic analysis
+:::
+
+<br>
+
+## Other Projects
+
+#### "Longevity Biotech Insights (LBI)"
+
+::: {#lbi-project .project layout="[4,6]"}
+[![](files/images/lbi-preview.png "Open live dashboard")](https://francescon-longevity-biotech-insights.hf.space/)
+
+::: {.project-text}
+[Live Dashboard](https://francescon-longevity-biotech-insights.hf.space/) \| [GitHub Repository](https://github.com/f-neri/longevity_biotech_insights)
+
+Longevity Biotech Insights is an interactive dashboard and data pipeline that tracks 250+ aging/longevity biotech companies worldwide using data from AgingBiotech.info. It lets users explore the ecosystem by founding year, research category, clinical stage, and geography, with click-through company-level details. The project includes an automated weekly data-refresh workflow to keep published data artifacts up to date.
+:::
 :::
