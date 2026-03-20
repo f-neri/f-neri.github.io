@@ -5,6 +5,9 @@ project:
 website:
   title: "Francesco Neri"
   favicon: files/images/favicon.ico
+  site-url: https://f-neri.github.io/
+  open-graph: true
+  twitter-card: true
   search: false
   cookie-consent:
     type: express

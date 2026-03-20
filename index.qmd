@@ -1,5 +1,6 @@
 ---
-title: "Hi, I'm Francesco"
+title: "Francesco Neri"
+description: "Researcher focused on aging and longevity biotech, with experience in cellular senescence, high-content imaging, and translational R&D."
 
 image: files/images/headshot.jpg
 
