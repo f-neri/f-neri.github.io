@@ -1,6 +1,10 @@
 ---
 title: "Francesco Neri"
-description: "Researcher focused on aging and longevity biotech, with experience in cellular senescence, high-content imaging, and translational R&D."
+seo_description: "Researcher focused on aging and longevity biotech, with experience in cellular senescence, high-content imaging, and translational R&D."
+
+format:
+  html:
+    include-in-header: seo-index.html
 
 image: files/images/headshot.jpg
 

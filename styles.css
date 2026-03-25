@@ -2,3 +2,7 @@
 .project {
     text-align: justify;
 }
+
+.quarto-about-jolla .description {
+    display: none;
+}

@@ -9,13 +9,6 @@ website:
   open-graph: true
   twitter-card: true
   search: false
-  cookie-consent:
-    type: express
-    style: simple
-    palette: light
-  google-analytics:
-    tracking-id: "G-Y23TGWHRGM"
-    anonymize-ip: true
   navbar:
     left:
       - href: index.qmd
@@ -29,8 +22,8 @@ format:
   html:
     pagetitle: "Francesco Neri"
     theme:
-      dark: darkly
       light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
