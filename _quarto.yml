@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - lbi/
 
 website:
   title: "Francesco Neri"
