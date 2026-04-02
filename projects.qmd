@@ -46,10 +46,10 @@ We describe protocols to (1) generate senescent cells using different stimuli, (
 #### Longevity Biotech Insights (LBI)
 
 ::: {#lbi-project .project layout="[4,6]"}
-[![](files/images/lbi-preview.png "Open live dashboard")](https://francescon-longevity-biotech-insights.hf.space/)
+[![](files/images/lbi-preview.png "Open Longevity Biotech Insights dashboard")](/lbi/)
 
 ::: {.project-text}
-[Live Dashboard](https://francescon-longevity-biotech-insights.hf.space/) \| [GitHub Repository](https://github.com/f-neri/longevity_biotech_insights)
+[Longevity Biotech Insights dashboard](/lbi/) \| [GitHub Repository](https://github.com/f-neri/longevity_biotech_insights)
 
 Longevity Biotech Insights is an interactive dashboard and data pipeline that tracks 250+ aging/longevity biotech companies worldwide using data from AgingBiotech.info. It lets users explore the ecosystem by founding year, research category, clinical stage, and geography, with click-through company-level details. The project includes an automated weekly data-refresh workflow to keep published data artifacts up to date.
 :::

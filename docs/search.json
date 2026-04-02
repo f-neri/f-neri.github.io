@@ -53,6 +53,6 @@
     "href": "projects.html#other-projects",
     "title": "Projects",
     "section": "Other Projects",
-    "text": "Other Projects\n\nLongevity Biotech Insights (LBI)\n\n\n\n\n\n\nLive Dashboard | GitHub Repository\nLongevity Biotech Insights is an interactive dashboard and data pipeline that tracks 250+ aging/longevity biotech companies worldwide using data from AgingBiotech.info. It lets users explore the ecosystem by founding year, research category, clinical stage, and geography, with click-through company-level details. The project includes an automated weekly data-refresh workflow to keep published data artifacts up to date."
+    "text": "Other Projects\n\nLongevity Biotech Insights (LBI)\n\n\n\n\n\n\nLongevity Biotech Insights dashboard | GitHub Repository\nLongevity Biotech Insights is an interactive dashboard and data pipeline that tracks 250+ aging/longevity biotech companies worldwide using data from AgingBiotech.info. It lets users explore the ecosystem by founding year, research category, clinical stage, and geography, with click-through company-level details. The project includes an automated weekly data-refresh workflow to keep published data artifacts up to date."
   }
 ]
